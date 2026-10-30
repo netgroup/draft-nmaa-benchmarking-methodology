@@ -10,14 +10,14 @@ date:
 consensus: true
 v: 3
 area: "Operations and Management"
-workgroup: "Benchmarking & Performance Measurements"
+workgroup: "Benchmarking and Performance Measurements"
 keyword:
  - AI agents
  - network management
  - benchmarking
  - collateral damage
 venue:
-  group: "Benchmarking & Performance Measurements"
+  group: "Benchmarking and Performance Measurements"
   type: "Working Group"
   mail: "bpm@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/bpm/"
